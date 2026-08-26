@@ -1,11 +1,12 @@
 Research
 ========
-I am a Postdoctoral Researcher in the Division of Computer Systems at Uppsala University, working on programming languages, concurrecncy and semantics. 
+I am a Postdoctoral Researcher in the Division of Computer Systems at Uppsala University, working on programming languages, concurrency and semantics.
 
 Publications
 ------------
+* [2026] When Behaviours Have to Happen: An Axiomatic Model of Causality in Behaviour-Oriented Concurrency -- CONCUR'26 ([paper](https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.CONCUR.2026.23))
 * [2025] Decoupling Isolation and Concurrency: An Actor-Centric View of Behaviour-Oriented Concurrency -- GulFest ([paper](papers/gulfest.pdf))
-* [2024] Behaviour-oriented Concurrency — PhD Thesis  
+* [2024] Behaviour-oriented Concurrency -- PhD Thesis
   <a href="https://spiral.imperial.ac.uk/entities/publication/a1259c4b-6ffe-45d2-ac8b-3e1162d4c107" rel="canonical">
     Official Paper
   </a> | 
