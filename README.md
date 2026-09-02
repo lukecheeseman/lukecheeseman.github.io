@@ -37,4 +37,4 @@ Publications
 
 Presentations
 -------------
-* [2026] When Behaviours Have to Happen -- CONCUR'26 ([slides](https://lukecheeseman.github.io/presentations/concur2026/))
+* [2026] When Behaviours Have to Happen -- CONCUR'26 ([slides](https://lukecheeseman.github.io/presentations/concur2026/html/) | [pdf](https://lukecheeseman.github.io/presentations/concur2026/CONCUR2026.pdf))
