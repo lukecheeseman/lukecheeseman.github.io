@@ -7,12 +7,12 @@ Publications
 * [2026] When Behaviours Have to Happen: An Axiomatic Model of Causality in Behaviour-Oriented Concurrency -- CONCUR'26 ([paper](https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.CONCUR.2026.23))
 * [2025] Decoupling Isolation and Concurrency: An Actor-Centric View of Behaviour-Oriented Concurrency -- GulFest ([paper](papers/gulfest.pdf))
 * [2024] Behaviour-oriented Concurrency -- PhD Thesis
-  <a href="https://spiral.imperial.ac.uk/entities/publication/a1259c4b-6ffe-45d2-ac8b-3e1162d4c107" rel="canonical">
+  (<a href="https://spiral.imperial.ac.uk/entities/publication/a1259c4b-6ffe-45d2-ac8b-3e1162d4c107" rel="canonical">
     Official Paper
   </a> | 
   <a href="papers/thesis.pdf" rel="alternate">
     Author's Copy
-  </a>
+  </a>)
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -37,4 +37,4 @@ Publications
 
 Presentations
 -------------
-* [2026] When Behaviours Have to Happen -- CONCUR'26 ([slides](https://lukecheeseman.github.io/presentations/concur2026/html/) | [pdf](https://lukecheeseman.github.io/presentations/concur2026/CONCUR2026.pdf))
+* [2026] When Behaviours Have to Happen -- CONCUR'26 ([slides](https://lukecheeseman.github.io/presentations/concur2026/html/) \| [pdf](https://lukecheeseman.github.io/presentations/concur2026/CONCUR2026.pdf))
